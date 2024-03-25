@@ -1,5 +1,5 @@
 fun main() {
-    numbers(40,20)
+    number(40,20)
     Boolean
 }
 //1
