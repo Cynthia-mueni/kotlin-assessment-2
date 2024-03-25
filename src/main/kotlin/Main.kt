@@ -9,7 +9,7 @@ fun word(word:String){
 }
 
 //2
-fun numbers(num1:Int,num2:Int):Int{
+fun number(num1:Int,num2:Int):Int{
     var sum= num1+num2
     var average=num1+num2/2
     var count=num1+num2
